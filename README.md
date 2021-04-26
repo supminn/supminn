@@ -1,8 +1,6 @@
-## Welcome to Supminn's GIT world 👋
+## Welcome to Supminn's GIT world 👋 <a href="https://twitter.com/supminn" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="supminn" /></a> 
 
 ### 👩‍💻Software Engineer, entering into MERN stack developer.
-
-<a href="https://twitter.com/supminn" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="supminn" /></a> 
 
 - 🌱 I’m currently learning MERN stack development! Check out my [portfolio](https://supminn-neog.netlify.app)
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries
