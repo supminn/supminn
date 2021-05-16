@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN stack development! Check out my [portfolio](https://supminn-neog.netlify.app)
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries
-- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS
+- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript
 - 📫 Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
 
 ## Languages and Tools : 
@@ -26,6 +26,9 @@
   </a>
  <a href="https://reactjs.org/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+    <a href="http://typescriptlang.org/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
   </a>
  <a href="https://getbootstrap.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
