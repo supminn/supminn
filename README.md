@@ -5,7 +5,7 @@
 - 🌱 Enhancing my knowledge on web development. Check out my [portfolio](https://supminn-neog.netlify.app)
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript
-- 📫 Track my progress through tweets! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
+- 📫 Track my progress through tweets! Completed #151daysofcode! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
 
 ## Languages and Tools :
 
@@ -87,11 +87,10 @@
   </a> 
   
 
-
 ## GitHub Statistics:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supminn&layout=compact&theme=radical" alt="supminn" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=supminn&count_private=true&show_icons=true&theme=radical" alt="supminn" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supminn&layout=compact&theme=radical" alt="supminn" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=supminn&count_private=true&show_icons=true&theme=radical" alt="supminn" height="200"/>
 </p>
 
 ## Connect with me:
