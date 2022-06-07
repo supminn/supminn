@@ -93,6 +93,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supminn&count_private=true&show_icons=true&theme=radical" alt="supminn" height="200"/>
 </p>
 
+## Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## My Latest Blog Posts ✍️
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ## Connect with me:
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/supminn)
