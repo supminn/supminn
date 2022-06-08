@@ -95,6 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#293](https://github.com/reactplay/react-play/issues/293) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 💪 Opened PR [#293](https://github.com/reactplay/react-play/pull/293) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#288](https://github.com/reactplay/react-play/issues/288) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. ❗️ Opened issue [#288](https://github.com/reactplay/react-play/issues/288) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 💪 Opened PR [#3](https://github.com/supminn/neoG_L2_web_portfolio/pull/3) in [supminn/neoG_L2_web_portfolio](https://github.com/supminn/neoG_L2_web_portfolio)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
