@@ -104,6 +104,11 @@
 
 ## My Latest Blog Posts ✍️
 <!-- HASHNODE_BLOG:START -->
+- [Combining multiple reducers in React.](https://supminn.hashnode.dev//combining-multiple-reducers-in-react)
+- [My journey on building a full-stack application](https://supminn.hashnode.dev//my-journey-on-building-a-full-stack-application)
+- [Add this key feature to your eCommerce application in 3 simple steps](https://supminn.hashnode.dev//add-this-key-feature-to-your-ecommerce-application-in-3-simple-steps)
+- [Callback to Promise => Promisification](https://supminn.hashnode.dev//polyfill-for-promisify)
+- [UseState - React Hook](https://supminn.hashnode.dev//usestate-react-hook)
 <!-- HASHNODE_BLOG:END -->
 
 ## Connect with me:
