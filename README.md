@@ -104,11 +104,11 @@
 
 ## My Latest Blog Posts ✍️
 <!-- HASHNODE_BLOG:START -->
+- [If you are a Techie, this is the best platform to showcase your Personal Brand](https://supminn.hashnode.dev//if-you-are-a-techie-this-is-the-best-platform-to-showcase-your-personal-brand)
 - [What are Progressive Web Applications? Get started with creating PWA](https://supminn.hashnode.dev//what-are-progressive-web-applications-get-started-with-creating-pwa)
 - [Introduction to web performance](https://supminn.hashnode.dev//introduction-to-web-performance)
 - [Combining multiple reducers in React.](https://supminn.hashnode.dev//combining-multiple-reducers-in-react)
 - [My journey on building a full-stack application](https://supminn.hashnode.dev//my-journey-on-building-a-full-stack-application)
-- [Add this key feature to your eCommerce application in 3 simple steps](https://supminn.hashnode.dev//add-this-key-feature-to-your-ecommerce-application-in-3-simple-steps)
 <!-- HASHNODE_BLOG:END -->
 
 ## Connect with me:
