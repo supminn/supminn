@@ -95,10 +95,10 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/supminn/create_javascript_app/pull/1) in [supminn/create_javascript_app](https://github.com/supminn/create_javascript_app)
-2. 🎉 Merged PR [#4](https://github.com/supminn/neoG_L2_web_portfolio/pull/4) in [supminn/neoG_L2_web_portfolio](https://github.com/supminn/neoG_L2_web_portfolio)
-3. 💪 Opened PR [#4](https://github.com/supminn/neoG_L2_web_portfolio/pull/4) in [supminn/neoG_L2_web_portfolio](https://github.com/supminn/neoG_L2_web_portfolio)
-4. 💪 Opened PR [#1](https://github.com/supminn/create_javascript_app/pull/1) in [supminn/create_javascript_app](https://github.com/supminn/create_javascript_app)
+1. 🗣 Commented on [#24](https://github.com/reactplay/react-play/issues/24) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Opened issue [#2](https://github.com/supminn/expense_tracker/issues/2) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+3. ❗️ Opened issue [#1](https://github.com/supminn/expense_tracker/issues/1) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+4. 🎉 Merged PR [#1](https://github.com/supminn/create_javascript_app/pull/1) in [supminn/create_javascript_app](https://github.com/supminn/create_javascript_app)
 5. 🗣 Commented on [#293](https://github.com/reactplay/react-play/issues/293) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
