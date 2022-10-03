@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/reactplay/react-play/issues/24) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❗️ Opened issue [#2](https://github.com/supminn/expense_tracker/issues/2) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-3. ❗️ Opened issue [#1](https://github.com/supminn/expense_tracker/issues/1) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-4. 🎉 Merged PR [#1](https://github.com/supminn/create_javascript_app/pull/1) in [supminn/create_javascript_app](https://github.com/supminn/create_javascript_app)
-5. 🗣 Commented on [#293](https://github.com/reactplay/react-play/issues/293) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 💪 Opened PR [#4](https://github.com/koustov/json-graphql-parser/pull/4) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+2. 🗣 Commented on [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+3. 🗣 Commented on [#472](https://github.com/reactplay/react-play/issues/472) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. ❗️ Opened issue [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+5. ❗️ Closed issue [#589](https://github.com/reactplay/react-play/issues/589) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
