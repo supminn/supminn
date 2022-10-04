@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/koustov/json-graphql-parser/pull/4) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-2. 🗣 Commented on [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-3. 🗣 Commented on [#472](https://github.com/reactplay/react-play/issues/472) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. ❗️ Opened issue [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-5. ❗️ Closed issue [#589](https://github.com/reactplay/react-play/issues/589) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#7](https://github.com/atapas/html-tips-tricks/issues/7) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
+2. 🗣 Commented on [#472](https://github.com/reactplay/react-play/issues/472) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 💪 Opened PR [#21](https://github.com/akshatmittal61/planner/pull/21) in [akshatmittal61/planner](https://github.com/akshatmittal61/planner)
+4. ❗️ Opened issue [#20](https://github.com/akshatmittal61/planner/issues/20) in [akshatmittal61/planner](https://github.com/akshatmittal61/planner)
+5. ❗️ Opened issue [#5](https://github.com/supminn/expense_tracker/issues/5) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
