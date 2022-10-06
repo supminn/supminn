@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/atapas/html-tips-tricks/pull/9) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-2. 🗣 Commented on [#192](https://github.com/reactplay/react-play/issues/192) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#7](https://github.com/atapas/html-tips-tricks/issues/7) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-4. 🗣 Commented on [#472](https://github.com/reactplay/react-play/issues/472) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 💪 Opened PR [#21](https://github.com/akshatmittal61/planner/pull/21) in [akshatmittal61/planner](https://github.com/akshatmittal61/planner)
+1. 💪 Opened PR [#20](https://github.com/atapas/html-tips-tricks/pull/20) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
+2. 💪 Opened PR [#149](https://github.com/atapas/webapis-playground/pull/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 🗣 Commented on [#149](https://github.com/atapas/webapis-playground/issues/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. ❗️ Opened issue [#19](https://github.com/atapas/html-tips-tricks/issues/19) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
+5. 🗣 Commented on [#9](https://github.com/atapas/html-tips-tricks/issues/9) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
