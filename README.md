@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/atapas/html-tips-tricks/pull/20) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-2. 💪 Opened PR [#149](https://github.com/atapas/webapis-playground/pull/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. 🗣 Commented on [#149](https://github.com/atapas/webapis-playground/issues/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. ❗️ Opened issue [#19](https://github.com/atapas/html-tips-tricks/issues/19) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-5. 🗣 Commented on [#9](https://github.com/atapas/html-tips-tricks/issues/9) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
+1. 🗣 Commented on [#4](https://github.com/koustov/json-graphql-parser/issues/4) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+2. 🗣 Commented on [#149](https://github.com/atapas/webapis-playground/issues/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 💪 Opened PR [#20](https://github.com/atapas/html-tips-tricks/pull/20) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
+4. 💪 Opened PR [#149](https://github.com/atapas/webapis-playground/pull/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 🗣 Commented on [#149](https://github.com/atapas/webapis-playground/issues/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
