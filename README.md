@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/supminn/expense_tracker/issues/2) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-2. 🎉 Merged PR [#7](https://github.com/supminn/expense_tracker/pull/7) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-3. 🗣 Commented on [#20](https://github.com/atapas/html-tips-tricks/issues/20) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-4. 🗣 Commented on [#149](https://github.com/atapas/webapis-playground/issues/149) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-5. 🗣 Commented on [#4](https://github.com/koustov/json-graphql-parser/issues/4) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+1. 🗣 Commented on [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+2. 🗣 Commented on [#8](https://github.com/supminn/expense_tracker/issues/8) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+3. ❗️ Closed issue [#2](https://github.com/supminn/expense_tracker/issues/2) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+4. 🎉 Merged PR [#7](https://github.com/supminn/expense_tracker/pull/7) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+5. 🗣 Commented on [#20](https://github.com/atapas/html-tips-tricks/issues/20) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
