@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/supminn/expense_tracker/pull/8) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-2. 🗣 Commented on [#8](https://github.com/supminn/expense_tracker/issues/8) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-3. 🗣 Commented on [#4](https://github.com/koustov/json-graphql-parser/issues/4) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-4. 🗣 Commented on [#3](https://github.com/koustov/json-graphql-parser/issues/3) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-5. 🗣 Commented on [#8](https://github.com/supminn/expense_tracker/issues/8) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+1. ❗️ Closed issue [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+2. 🗣 Commented on [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+3. 🎉 Merged PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+4. 💪 Opened PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+5. ❗️ Opened issue [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
