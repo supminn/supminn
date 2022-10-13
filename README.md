@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-2. 🗣 Commented on [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-3. 🎉 Merged PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-4. 💪 Opened PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-5. ❗️ Opened issue [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+1. 🗣 Commented on [#595](https://github.com/reactplay/react-play/issues/595) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❗️ Closed issue [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+3. 🗣 Commented on [#10](https://github.com/supminn/expense_tracker/issues/10) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+4. 🎉 Merged PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+5. 💪 Opened PR [#11](https://github.com/supminn/expense_tracker/pull/11) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
