@@ -95,11 +95,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/supminn/expense_tracker/pull/12) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-2. 🗣 Commented on [#696](https://github.com/reactplay/react-play/issues/696) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. ❗️ Closed issue [#5](https://github.com/supminn/expense_tracker/issues/5) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
-4. 🗣 Commented on [#19](https://github.com/atapas/html-tips-tricks/issues/19) in [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks)
-5. 🗣 Commented on [#595](https://github.com/reactplay/react-play/issues/595) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#595](https://github.com/reactplay/react-play/issues/595) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#12](https://github.com/supminn/expense_tracker/issues/12) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+3. 💪 Opened PR [#12](https://github.com/supminn/expense_tracker/pull/12) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
+4. 🗣 Commented on [#696](https://github.com/reactplay/react-play/issues/696) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Closed issue [#5](https://github.com/supminn/expense_tracker/issues/5) in [supminn/expense_tracker](https://github.com/supminn/expense_tracker)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
