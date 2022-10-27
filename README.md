@@ -1,11 +1,11 @@
-## Welcome to Supminn's GIT world 👋 <a href="https://twitter.com/supminn" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="supminn" /></a> 
+## Welcome to Supriya's GIT world 👋 <a href="https://twitter.com/supminn" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="supminn" /></a> 
 
-### 👩‍💻Software Engineer, entering into MERN stack developer.
+### 👩‍💻Software Engineer, MERN stack developer.
 
 - 🌱 Enhancing my knowledge on web development. Check out my [portfolio](https://supminn-neog.netlify.app)
 - 👯 I’m looking to collaborate on open source projects and learn new skills & libraries
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript
-- 📫 Track my progress through tweets! Completed #151daysofcode! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
+- 📫 I share my learnings and track my progress through tweets! Completed #151daysofcode! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
 
 ## Languages and Tools :
 
@@ -92,6 +92,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supminn&layout=compact&theme=radical" alt="supminn" height="200"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supminn&count_private=true&show_icons=true&theme=radical" alt="supminn" height="200"/>
 </p>
+<p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=supminn&theme=highcontrast&hide_border=true" alt="supminn" />
+</p>
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=supminn&theme=dracula&hide_border=true) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=supminn.supminn)
 
 ## Recent Activities
 <!--START_SECTION:activity-->
@@ -114,7 +120,5 @@
 ## Connect with me:
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/supminn)
-[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/blogger.png"/>](https://supminn.hashnode.dev/)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/supminn)
-
-
+[<img align="center" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-blog-communication-media-flaticons-lineal-color-flat-icons.png"/>](https://supminn.hashnode.dev/)
