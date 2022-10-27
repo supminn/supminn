@@ -96,8 +96,8 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=supminn&theme=highcontrast&hide_border=true" alt="supminn" />
 </p>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=supminn&theme=dracula&hide_border=true) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=supminn.supminn)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=supminn&theme=dracula&hide_border=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=supminn.supminn)  -->
 
 ## Recent Activities
 <!--START_SECTION:activity-->
