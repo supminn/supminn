@@ -101,11 +101,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/koustov/json-graphql-parser/issues/10) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
-2. 🗣 Commented on [#19](https://github.com/reactplay/hacktoberfest/issues/19) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-3. 💪 Opened PR [#19](https://github.com/reactplay/hacktoberfest/pull/19) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
-4. 💪 Opened PR [#9139](https://github.com/hasura/graphql-engine/pull/9139) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-5. 🗣 Commented on [#5](https://github.com/koustov/json-graphql-parser.app/issues/5) in [koustov/json-graphql-parser.app](https://github.com/koustov/json-graphql-parser.app)
+1. 🗣 Commented on [#9139](https://github.com/hasura/graphql-engine/issues/9139) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+2. 🗣 Commented on [#10](https://github.com/koustov/json-graphql-parser/issues/10) in [koustov/json-graphql-parser](https://github.com/koustov/json-graphql-parser)
+3. 🗣 Commented on [#19](https://github.com/reactplay/hacktoberfest/issues/19) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+4. 💪 Opened PR [#19](https://github.com/reactplay/hacktoberfest/pull/19) in [reactplay/hacktoberfest](https://github.com/reactplay/hacktoberfest)
+5. 💪 Opened PR [#9139](https://github.com/hasura/graphql-engine/pull/9139) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
