@@ -101,11 +101,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#778](https://github.com/reactplay/react-play/issues/778) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#790](https://github.com/reactplay/react-play/issues/790) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 💪 Opened PR [#778](https://github.com/reactplay/react-play/pull/778) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. ❗️ Opened issue [#773](https://github.com/reactplay/react-play/issues/773) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#9139](https://github.com/hasura/graphql-engine/issues/9139) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+1. 🗣 Commented on [#696](https://github.com/reactplay/react-play/issues/696) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#778](https://github.com/reactplay/react-play/issues/778) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#790](https://github.com/reactplay/react-play/issues/790) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 💪 Opened PR [#778](https://github.com/reactplay/react-play/pull/778) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Opened issue [#773](https://github.com/reactplay/react-play/issues/773) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
