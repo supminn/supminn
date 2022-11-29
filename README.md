@@ -101,10 +101,10 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#813](https://github.com/reactplay/react-play/issues/813) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#815](https://github.com/reactplay/react-play/issues/815) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 💪 Opened PR [#815](https://github.com/reactplay/react-play/pull/815) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#813](https://github.com/reactplay/react-play/issues/813) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#820](https://github.com/reactplay/react-play/issues/820) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❌ Closed PR [#819](https://github.com/reactplay/react-play/pull/819) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 💪 Opened PR [#820](https://github.com/reactplay/react-play/pull/820) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 💪 Opened PR [#819](https://github.com/reactplay/react-play/pull/819) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#696](https://github.com/reactplay/react-play/issues/696) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
