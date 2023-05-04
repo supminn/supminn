@@ -110,11 +110,11 @@
 
 ## My Latest Blog Posts ✍️
 <!-- HASHNODE_BLOG:START -->
+- [Hashnode Bootcamp - These are some of my favorite things!](https://supminn.hashnode.dev//my-learnings-from-hashnode-bootcamp)
 - [Setting up React-Native Development Environment](https://supminn.hashnode.dev//setting-up-react-native-development-environment)
 - [Pointer Events in JavaScript](https://supminn.hashnode.dev//pointer-events-in-javascript)
 - [If you are a Techie, this is the best platform to showcase your Personal Brand](https://supminn.hashnode.dev//if-you-are-a-techie-this-is-the-best-platform-to-showcase-your-personal-brand)
 - [What are Progressive Web Applications? Get started with creating PWA](https://supminn.hashnode.dev//what-are-progressive-web-applications-get-started-with-creating-pwa)
-- [Introduction to web performance](https://supminn.hashnode.dev//introduction-to-web-performance)
 <!-- HASHNODE_BLOG:END -->
 
 ## Connect with me:
