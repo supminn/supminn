@@ -101,11 +101,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1152](https://github.com/reactplay/react-play/issues/1152) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#1140](https://github.com/reactplay/react-play/issues/1140) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 💪 Opened PR [#1140](https://github.com/reactplay/react-play/pull/1140) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. ❗️ Opened issue [#1138](https://github.com/reactplay/react-play/issues/1138) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 💪 Opened PR [#1135](https://github.com/reactplay/react-play/pull/1135) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. ❗️ Opened issue [#57](https://github.com/reactplay/docs/issues/57) in [reactplay/docs](https://github.com/reactplay/docs)
+2. ❗️ Opened issue [#1152](https://github.com/reactplay/react-play/issues/1152) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#1140](https://github.com/reactplay/react-play/issues/1140) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 💪 Opened PR [#1140](https://github.com/reactplay/react-play/pull/1140) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Opened issue [#1138](https://github.com/reactplay/react-play/issues/1138) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
