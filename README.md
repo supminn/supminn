@@ -118,3 +118,5 @@
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/supminn)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/supminn)
 [<img align="center" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-blog-communication-media-flaticons-lineal-color-flat-icons.png"/>](https://supminn.hashnode.dev/)
+[<img align="center" height="40" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"/>](https://dev.to/supminn)
+
