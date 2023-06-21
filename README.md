@@ -2,27 +2,27 @@
 
 ### 👩‍💻Software Engineer, MERN stack developer.
 
-- 🌱 Enhancing my knowledge on web development. Check out my [portfolio](https://supminn-neog.netlify.app)
-- 👯 I’m looking to collaborate on open source projects and learn new skills & libraries
-- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, TypeScript
+- 🌱 Enhancing my knowledge of technologies on the web. Check out my [portfolio](https://supminn-neog.netlify.app)
+- 👯 I’m looking to collaborate on open-source projects and learn new skills & libraries
+- 💬 Reach out to me for discussions around application development in JavaScript, ReactJS, TypeScript
 - 📫 I share my learnings and track my progress through tweets! Completed #151daysofcode! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
 
 ## Languages and Tools :
 
  <a href="https://www.w3.org/html/" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
   </a>
   
  <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40"/> 
  </a>
  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
   </a>
   
   <a href="https://reactjs.org/" target="_blank"> 
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a>
   
   <a href="https://redux-toolkit.js.org/" target="_blank"> 
@@ -41,19 +41,19 @@
   </a> 
 
   <a href="https://expressjs.com" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
   </a>  
   
   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
   
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> 
   </a> 
   
   <br/>
@@ -62,28 +62,24 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   
-  <a href="https://dashboard.heroku.com/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a> 
-  
   <a href="https://getbootstrap.com" target="_blank"> 
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
   </a>
   
   <a href="https://tailwindcss.com/" target="_blank"> 
-   <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
   </a>
   
   <a href="https://postman.com" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a> 
   
   <a href="https://graphql.org/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" width="40" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
   </a> 
   
    <a href="https://hasura.io/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura" width="40" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="Hasura" width="40" height="40"/>
   </a> 
   
 
