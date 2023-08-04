@@ -97,11 +97,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/reactplay/docs/issues/57#issuecomment-1628863107) in [reactplay/docs](https://github.com/reactplay/docs)
-2. 🔒 Closed issue [#68](https://github.com/reactplay/docs/issues/68) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 🗣 Commented on [#68](https://github.com/reactplay/docs/issues/68#issuecomment-1628862179) in [reactplay/docs](https://github.com/reactplay/docs)
-4. ❗ Opened issue [#68](https://github.com/reactplay/docs/issues/68) in [reactplay/docs](https://github.com/reactplay/docs)
-5. 🗣 Commented on [#66](https://github.com/reactplay/docs/pull/66#issuecomment-1623537963) in [reactplay/docs](https://github.com/reactplay/docs)
+1. ❗ Opened issue [#431](https://github.com/styled-components/jest-styled-components/issues/431) in [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components)
+2. 🗣 Commented on [#57](https://github.com/reactplay/docs/issues/57#issuecomment-1628863107) in [reactplay/docs](https://github.com/reactplay/docs)
+3. 🔒 Closed issue [#68](https://github.com/reactplay/docs/issues/68) in [reactplay/docs](https://github.com/reactplay/docs)
+4. 🗣 Commented on [#68](https://github.com/reactplay/docs/issues/68#issuecomment-1628862179) in [reactplay/docs](https://github.com/reactplay/docs)
+5. ❗ Opened issue [#68](https://github.com/reactplay/docs/issues/68) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
