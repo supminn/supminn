@@ -97,11 +97,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#431](https://github.com/styled-components/jest-styled-components/issues/431#issuecomment-1668999556) in [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components)
-2. ❗ Opened issue [#431](https://github.com/styled-components/jest-styled-components/issues/431) in [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components)
-3. 🗣 Commented on [#57](https://github.com/reactplay/docs/issues/57#issuecomment-1628863107) in [reactplay/docs](https://github.com/reactplay/docs)
-4. 🔒 Closed issue [#68](https://github.com/reactplay/docs/issues/68) in [reactplay/docs](https://github.com/reactplay/docs)
-5. 🗣 Commented on [#68](https://github.com/reactplay/docs/issues/68#issuecomment-1628862179) in [reactplay/docs](https://github.com/reactplay/docs)
+1. 🎉 Merged PR [#2](https://github.com/supminn/monorepo-lerna-demo/pull/2) in [supminn/monorepo-lerna-demo](https://github.com/supminn/monorepo-lerna-demo)
+2. 💪 Opened PR [#2](https://github.com/supminn/monorepo-lerna-demo/pull/2) in [supminn/monorepo-lerna-demo](https://github.com/supminn/monorepo-lerna-demo)
+3. 🗣 Commented on [#431](https://github.com/styled-components/jest-styled-components/issues/431#issuecomment-1668999556) in [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components)
+4. ❗ Opened issue [#431](https://github.com/styled-components/jest-styled-components/issues/431) in [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components)
+5. 🗣 Commented on [#57](https://github.com/reactplay/docs/issues/57#issuecomment-1628863107) in [reactplay/docs](https://github.com/reactplay/docs)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
