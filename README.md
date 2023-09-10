@@ -97,11 +97,11 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/reactplay/docs/pull/74) in [reactplay/docs](https://github.com/reactplay/docs)
-2. ❗ Opened issue [#73](https://github.com/reactplay/docs/issues/73) in [reactplay/docs](https://github.com/reactplay/docs)
-3. 🗣 Commented on [#14](https://github.com/reactplay/docs/issues/14#issuecomment-1706005501) in [reactplay/docs](https://github.com/reactplay/docs)
-4. 🎉 Merged PR [#2](https://github.com/supminn/monorepo-lerna-demo/pull/2) in [supminn/monorepo-lerna-demo](https://github.com/supminn/monorepo-lerna-demo)
-5. 💪 Opened PR [#2](https://github.com/supminn/monorepo-lerna-demo/pull/2) in [supminn/monorepo-lerna-demo](https://github.com/supminn/monorepo-lerna-demo)
+1. 💪 Opened PR [#1241](https://github.com/reactplay/react-play/pull/1241) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 💪 Opened PR [#74](https://github.com/reactplay/docs/pull/74) in [reactplay/docs](https://github.com/reactplay/docs)
+3. ❗ Opened issue [#73](https://github.com/reactplay/docs/issues/73) in [reactplay/docs](https://github.com/reactplay/docs)
+4. 🗣 Commented on [#14](https://github.com/reactplay/docs/issues/14#issuecomment-1706005501) in [reactplay/docs](https://github.com/reactplay/docs)
+5. 🎉 Merged PR [#2](https://github.com/supminn/monorepo-lerna-demo/pull/2) in [supminn/monorepo-lerna-demo](https://github.com/supminn/monorepo-lerna-demo)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts ✍️
