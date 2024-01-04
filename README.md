@@ -97,7 +97,7 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1235](https://github.com/reactplay/react-play/pull/1235#issuecomment-1727051179) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 💪 Opened PR [#191](https://github.com/drizzle-team/drizzle-orm-docs/pull/191) in [drizzle-team/drizzle-orm-docs](https://github.com/drizzle-team/drizzle-orm-docs)
 2. 💪 Opened PR [#1241](https://github.com/reactplay/react-play/pull/1241) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 💪 Opened PR [#74](https://github.com/reactplay/docs/pull/74) in [reactplay/docs](https://github.com/reactplay/docs)
 4. ❗ Opened issue [#73](https://github.com/reactplay/docs/issues/73) in [reactplay/docs](https://github.com/reactplay/docs)
