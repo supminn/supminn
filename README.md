@@ -106,11 +106,11 @@
 
 ## My Latest Blog Posts ✍️
 <!-- HASHNODE_BLOG:START -->
+- [An Introduction to Monorepos: Simplifying Code Management](https://supminn.hashnode.dev//an-introduction-to-monorepos)
 - [Introduction to React Server Components!](https://supminn.hashnode.dev//introduction-to-react-server-components)
 - [Simplify your lists using CSS Counter](https://supminn.hashnode.dev//introduction-to-css-counters)
 - [Hashnode Bootcamp - These are some of my favorite things!](https://supminn.hashnode.dev//my-learnings-from-hashnode-bootcamp)
 - [Setting up React-Native Development Environment](https://supminn.hashnode.dev//setting-up-react-native-development-environment)
-- [Pointer Events in JavaScript](https://supminn.hashnode.dev//pointer-events-in-javascript)
 <!-- HASHNODE_BLOG:END -->
 
 ## Connect with me:
