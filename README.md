@@ -89,7 +89,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supminn&count_private=true&show_icons=true&theme=radical" alt="supminn" height="200"/>
 </p>
 <p>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=supminn&theme=highcontrast&hide_border=true" alt="supminn" />
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=supminn&theme=highcontrast&hide_border=true" alt="supminn" /> -->
 </p>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=supminn&theme=dracula&hide_border=true)
