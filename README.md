@@ -56,6 +56,10 @@
   <a href="https://nodejs.org" target="_blank"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> 
   </a> 
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Repl.it" width="40" height="40"/>
+  </a> 
   
   <br/>
   
@@ -77,6 +81,10 @@
 
   <a href="https://www.jenkins.io/" target="_blank"> 
     <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="NPM" width="40" height="40"/>
   </a> 
   
   <br/>
@@ -122,28 +130,11 @@
    <a href="https://vite.dev/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40"/>
   </a> 
-
-  <br/>
-  
-   <a href="https://www.npmjs.com/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="NPM" width="40" height="40"/>
-  </a> 
-  
-   <a href="https://vercel.com/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  </a> 
-  
-   <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Repl.it" width="40" height="40"/>
-  </a> 
   
    <a href="https://www.meetup.com/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/meetup/meetup-icon.svg" alt="Repl.it" width="40" height="40"/>
   </a> 
   
-   <a href="https://dev.to/supminn" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Dev.to" width="70" height="70"/>
-  </a> 
 
 ## GitHub Statistics:
 <p>
