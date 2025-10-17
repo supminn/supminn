@@ -1,9 +1,10 @@
 ## Welcome to Supriya's GIT world 👋 <a href="https://twitter.com/supminn" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="supminn" /></a> 
 
-### 👩‍💻Software Engineer, MERN stack developer.
+### 👩‍💻Senior Software Engineer @<img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco" height="45" width="60"/>
 
+- 💻 I'm currently working on Design systems, Web components and Accessibility.
 - 🌱 Enhancing my knowledge of technologies on the web. Check out my [portfolio](https://supminn-neog.netlify.app)
-- 👯 I’m looking to collaborate on open-source projects and learn new skills & libraries
+- 👯 I’m looking to collaborate on <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="Open source" height="40" width="70"/> projects and learn new skills & libraries
 - 💬 Reach out to me for discussions around application development in JavaScript, ReactJS, TypeScript
 - 📫 I share my learnings and track my progress through tweets! Completed #151daysofcode! Feel free to tag/DM me on [Twitter](https://twitter.com/supminn)
 
@@ -62,6 +63,24 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   
+  <a href="https://github.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://github.com/copilot" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="github copilot" width="40" height="40"/> 
+  </a> 
+    
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira software" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank"> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
+  </a> 
+  
+  <br/>
+  
   <a href="https://getbootstrap.com" target="_blank"> 
    <img align="center" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
   </a>
@@ -69,6 +88,20 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
   </a>
+  
+  <a href="https://shoelace.style/" target="_blank"> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="Sass" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank"> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/shoelacestyle/shoelacestyle-icon.svg" alt="Shoelace" width="40" height="40"/> 
+  </a>
+  
+   <a href="https://figma.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-ar21~bgwhite.svg" alt="Dev.to" width="50" height="40"/>
+  </a> 
+  
+  <br/>
   
   <a href="https://postman.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -82,6 +115,35 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="Hasura" width="40" height="40"/>
   </a> 
   
+   <a href="https://webpack.js.org/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack" width="40" height="40"/>
+  </a> 
+  
+   <a href="https://vite.dev/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40"/>
+  </a> 
+
+  <br/>
+  
+   <a href="https://www.npmjs.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="NPM" width="40" height="40"/>
+  </a> 
+  
+   <a href="https://vercel.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+  </a> 
+  
+   <a href="https://code.visualstudio.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Repl.it" width="40" height="40"/>
+  </a> 
+  
+   <a href="https://www.meetup.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/meetup/meetup-icon.svg" alt="Repl.it" width="40" height="40"/>
+  </a> 
+  
+   <a href="https://dev.to/supminn" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Dev.to" width="70" height="70"/>
+  </a> 
 
 ## GitHub Statistics:
 <p>
